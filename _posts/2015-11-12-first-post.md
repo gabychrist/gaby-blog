@@ -3,11 +3,15 @@ published: true
 ---
 
 
+
 # Really Good Tomato Sauce
+#### December 15, 2015   
 
-### This is my first cooking post
+Here is my first post ever!! It took a lot of time to get this thing running--but we did it!
 
-**Here is my first bold sentence**
+So, 
+
+
 
 paragraph
 
